@@ -18,9 +18,6 @@
 2. [Step 2]
 3. [Step 3]
 
-## Contributing
-[Guidelines for contributors]
-
 ## Screenshots and Videos
 [Insert images or links to videos]
 
