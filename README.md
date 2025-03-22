@@ -17,7 +17,11 @@ Better Calendar was initially designed as a purely cal
 - Programmed primarily in Python, using Tkinter
 
 ## Screenshots and Videos
-[Insert images or links to videos]
+**Calendar Interface**
+
+**Add Event**
+
+**Quote of the Day**
 
 ## Hackathon Details
 - **Hackathon Name**: COD HACKATHON 2025
