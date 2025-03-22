@@ -22,9 +22,9 @@
 [Insert images or links to videos]
 
 ## Hackathon Details
-- **Hackathon Name**: [Name of the hackathon]
+- **Hackathon Name**: COD HACKATHON 2025
 - **Challenge/Theme**: [Specific challenge or theme addressed]
 
 ## Team
-- [Team Member 1] - [Role]
+- [Team Member 1] [Last, First A-Z] - [Role]
 - [Team Member 2] - [Role]
